@@ -49,9 +49,6 @@ Programa Starter Full Stack Web Developer (cursando).<br>
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
  
-  <a href="oliveiraclaudinei786@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-  <hr>
  
  <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
 <p align="center">
