@@ -2,7 +2,7 @@
 Bem-vindo à minha página do Github! Eu sou <strong> Claudinei Braga de Oliveira </strong>  <br>
 ### formação:
 Analise e Desenvolvimento de Sistema (concluido em 2018). <br>
-PROGRAMA STARTER FULL STACK WEB DEVELOPER (cursando).
+Programa Starter Full Stack Web Developer (cursando).
 
 ### Experiências profissionais:
   Auxiliar de Processamento <br>
