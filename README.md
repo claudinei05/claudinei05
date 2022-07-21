@@ -1,6 +1,6 @@
  👋
 Bem-vindo à minha página do Github! Eu sou <strong> Claudinei Braga de Oliveira </strong>  <br>
-### formação:
+### Formação:
 Analise e Desenvolvimento de Sistema (concluido em 2018). <br>
 Programa Starter Full Stack Web Developer (cursando).
 
@@ -19,7 +19,7 @@ Programa Starter Full Stack Web Developer (cursando).
 <code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
 
-***
+
 
 <br />
 
@@ -32,8 +32,7 @@ Programa Starter Full Stack Web Developer (cursando).
     src="https://github-readme-stats.vercel.app/api/top-langs?username=claudinei05&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
-
-
+<hr>
 
 <h3 align="left">Contato:</h3>
 <p align="left">
