@@ -6,7 +6,10 @@ Bem-vindo à minha página do Github! Eu sou <strong> Claudinei Braga de Oliveir
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
-
+### Hobbies:
+Ler <br>
+Pescar <br>
+Caminhada <br>
 ### Formação:
 Analise e Desenvolvimento de Sistema (concluido em 2018). <br>
 Programa Starter Full Stack Web Developer (cursando).<br>
@@ -36,10 +39,20 @@ Programa Starter Full Stack Web Developer (cursando).<br>
     src="https://github-readme-stats.vercel.app/api/top-langs?username=claudinei05&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
     bg_color=#808080/></p>
+ 
 <hr>
+ 
 
 <h3 align="left">Contato:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/claudinei-braga-de-oliveira-426292210/"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
+ 
+  <a href="oliveiraclaudinei786@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+ 
+ <h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/rock12231/rock12231/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
