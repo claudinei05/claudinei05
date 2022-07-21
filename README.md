@@ -1,13 +1,24 @@
- 👋
-Bem-vindo à minha página do Github! Eu sou <strong> Claudinei Braga de Oliveira </strong>  <br>
+ 
+ 
+Bem-vindo à minha página do Github! Eu sou <strong> Claudinei Braga de Oliveira </strong> 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<br>
+
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+
+
 ### Formação:
 Analise e Desenvolvimento de Sistema (concluido em 2018). <br>
-Programa Starter Full Stack Web Developer (cursando).
+Programa Starter Full Stack Web Developer (cursando).<br>
 
 ### Experiências profissionais:
   Auxiliar de Processamento <br>
   Auxiliar administrativo <br>
   Auxiliar de escritorio Contabilidade<b>
+ 
+ ### O que ja estudamos:
+  Introdução Computação <br>
+  Front-End 1 (estudando)<br>
   
 ### Linguagem de Programação favorita:
 
@@ -19,13 +30,6 @@ Programa Starter Full Stack Web Developer (cursando).
 <code><img alt="CSS3" height="35rem" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img height="35rem" src="https://img.icons8.com/color/2x/bootstrap.png" /></code>
 
-
-
-<br />
-
-### O que ja estudamos:
-  Introdução Computação <br>
-  Front end 1 (estudando)
   
   <h3>Statistical Data :-</h3>
 <p><img align="center"
