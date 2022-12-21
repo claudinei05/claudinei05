@@ -21,7 +21,12 @@ Programa Starter Full Stack Web Developer (cursando).<br>
  
  ### O que ja estudamos:
   Introdução Computação <br>
-  Front-End 1 (estudando)<br>
+  HTML<br>
+  CSS<br>
+  Javascript<br>
+  Typescript<br>
+  Bootstrap<br>
+  React (styled-components, Redux, MuiMaterial, Hooks)<br>
   
 ### Linguagem de Programação favorita:
 
