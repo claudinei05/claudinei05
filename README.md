@@ -27,6 +27,8 @@ Programa Starter Full Stack Web Developer (cursando).<br>
   Typescript<br>
   Bootstrap<br>
   React (styled-components, Redux, MuiMaterial, Hooks)<br>
+  Node.js<br>
+  PostgreSQL<br>
   
 ### Linguagem de Programação favorita:
 
