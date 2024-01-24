@@ -11,8 +11,9 @@ Ler <br>
 Pescar <br>
 Caminhada <br>
 ### Formação:
+Sistemas para Internet (cursando).<br>
+Programa Starter Full Stack Web Developer (concluido em 2023).<br>
 Analise e Desenvolvimento de Sistema (concluido em 2018). <br>
-Programa Starter Full Stack Web Developer (cursando).<br>
 
 ### Experiências profissionais:
   Auxiliar de Processamento <br>
@@ -29,6 +30,7 @@ Programa Starter Full Stack Web Developer (cursando).<br>
   React (styled-components, Redux, MuiMaterial, Hooks)<br>
   Node.js<br>
   PostgreSQL<br>
+  Teste<br>
   
 ### Linguagem de Programação favorita:
 
